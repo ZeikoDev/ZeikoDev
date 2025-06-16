@@ -14,7 +14,7 @@
 
 **📧 Email:** jcgonzalez4183@gmail.com  
 **📍 Location:** Medellín, Colombia         
-**🌐 Portfolio:** [Zeiko.dev](https://zeikopokerfolio.vercel.app/)   
+**🌐 Portfolio:** [Zeiko.dev](https://zeiko.dev)   
 **🔗 LinkedIn:** [Camilo Gonzalez](https://linkedin.com/in/juan-camilo-gonzalez-hoyos)
 
 ---
@@ -110,7 +110,7 @@ console.log("Let's build something amazing together! 🚀");
 
 **📧 Email:** jcgonzalez4183@gmail.com   
 **📍 Ubicación:** Medellín, Colombia  
-**🌐 Portafolio:** [Zeiko.dev](https://zeikopokerfolio.vercel.app/)   
+**🌐 Portafolio:** [Zeiko.dev](https://zeiko.dev)   
 **🔗 LinkedIn:** [juan-camilo-gonzalez-hoyos](https://linkedin.com/in/juan-camilo-gonzalez-hoyos)
 
 ---
