@@ -14,7 +14,7 @@
 
 **📧 Email:** zeiko@zeiko.dev  
 **📍 Ubicación:** Medellín, Colombia  
-**🌐 Portafolio:** [Zeiko.dev](https://zeiko.dev)   
+**🌐 Portfolio:** [Zeiko.dev](https://zeiko.dev)   
 **🔗 LinkedIn:** [juan-camilo-gonzalez-hoyos](https://linkedin.com/in/juan-camilo-gonzalez-hoyos)
 
 ---
