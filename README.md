@@ -9,7 +9,7 @@
 
 *Motivated developer with solid experience betting on the right technologies. Currently studying Computer Science at Universidad Nacional de Colombia while building winning hands in the tech world.*
 
-**📧 Email:** zeiko@zeiko.dev  
+**📧 Email:** me@zeiko.dev  
 **📍 Ubicación:** Medellín, Colombia  
 **🌐 Portfolio:** [Zeiko.dev](https://zeiko.dev)   
 **🔗 LinkedIn:** [juan-camilo-gonzalez-hoyos](https://linkedin.com/in/juan-camilo-gonzalez-hoyos)
