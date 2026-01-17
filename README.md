@@ -1,13 +1,13 @@
-# 🃏 Welcome to Zeiko's Poker room 
+# 🥋 Welcome to Zeiko's Dojo
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/80/96/86/809686b8019d942645c100ee8dae5101.gif" alt="Poker Anime GIF" width="400"/>
+  <h3><i>"Technique beats force."</i></h3>
 </div>
 
 ---
-## 🎯 **All In on Full Stack Development**
+## 🎯 **Discipline & Code**
 
-*Motivated developer with solid experience betting on the right technologies. Currently studying Computer Science at Universidad Nacional de Colombia while building winning hands in the tech world.*
+*Software Engineer with a focus on clean architecture and scalable solutions. Just like in Brazilian Jiu-Jitsu, I believe in leverage and efficiency—using the right tools to solve complex problems with precision rather than brute force.*
 
 **📧 Email:** me@zeiko.dev  
 **📍 Ubicación:** Medellín, Colombia  
@@ -16,39 +16,37 @@
 
 ---
 
-## 🎲 **My Winning Hand - Tech Stack**
+## 🥋 **The Arsenal - Tech Stack**
 
-### 🔥 **High Cards** (Expert Level)
-```javascript
-const expertSkills = {
-  frontend: ['JavaScript', 'TypeScript', 'React', 'Next.js'],
-  styling: ['HTML', 'CSS', 'TailwindCSS'],
-  backend: ['Node.js', 'Python'],
-  mobile: ['React Native']
+### ⬛ **Black Belt Techniques** (Core Stack)
+```typescript
+const signatureMoves = {
+  languages: ['TypeScript', 'JavaScript', 'Python'],
+  frontend: ['Astro', 'React', 'TailwindCSS'],
+  mobile: ['React Native'],
+  philosophy: 'Clean Code & Performance First'
 };
 ```
 
-### 🎴 **Face Cards** (Proficient)
-```python
-proficient_skills = {
-    'databases': ['PostgreSQL', 'MongoDB', 'Firebase/Firestore'],
+### 🟦 Blue Belt Proficiency (Backend & Tools)
+```grappling_skills = {
+    'backend': ['Django', 'Node.js', 'FastAPI'],
+    'databases': ['PostgreSQL', 'Firebase/Firestore'],
     'cloud': ['AWS (EC2, S3)'],
-    'frameworks': ['Django'],
-    'tools': ['Git/Github', 'Jest'],
-    'apis': ['REST API'],
-    'design': ['UX/UI Design']
+    'version_control': ['Git', 'GitHub'],
+    'testing': ['Jest']
 }
 ```
 
-### 🃏 **Wild Cards** (Learning & Exploring)
-- **Swift/SwiftUI** - iOS development ace up my sleeve
-- **Mobile Development** - Always ready to go all-in on new platforms
+### ⬜ White Belt Mindset (Learning & Drilling)
+- **Swift/SwiftUI** - Expanding my mobile defense.
+- **System Design** - Studying architecture patterns for high scalability.
 
 ---
 
 
 
-## 🏅 **Certifications - My Poker Chips**
+## 🏆 **Rankings & Certifications**
 
 ```
 🎨 Foundations of UI/UX Design (Google)
@@ -64,33 +62,27 @@ proficient_skills = {
 | Language | Level | 
 |----------|-------|
 | 🇪🇸 Spanish | Native | 
-| 🇺🇸 English | Professional | 
+| 🇺🇸 English | Professional (B2/C1) | 
 | 🇧🇷 Portuguese | Elementary | 
 
 ---
 
-## 📈 **GitHub Stats - My Current Game**
+## 🧘 **Kaizen (Continuous Improvement)**
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeikodev&layout=compact&theme=radical)
-
----
-
-## 🎯 **Current Bet: Always Learning**
-
-```javascript
-const currentGoals = {
-  education: "Bachelor of Computer Science @ Universidad Nacional de Colombia",
-  focus: "Building user-centered solutions with clean code",
-  passion: "Learning new technologies and working in Agile teams",
-  nextMove: "Ready to go all-in on exciting projects!"
+```
+const currentFocus = {
+  education: "Software Engineering @ I.U. Pascual Bravo",
+  mission: "Building accessible, high-performance web & mobile apps",
+  discipline: "Coding blocks + BJJ training",
+  status: "Ready to deploy solutions."
 };
 
-console.log("Let's build something amazing together! 🚀");
+console.log("Consistency is key. 🚀");
 ```
 
 ---
 
-### 🎲 *"In code as in poker, you need to know when to hold 'em, know when to fold 'em, and always play your best hand."*
+### 🥋 *"In code, as on the mats, progress comes from repetition and attention to detail."
 
-**Ready to collaborate? Let's shuffle up and deal! 🃏**
+
+**Ready to roll? Let's build something solid. 🃏**
