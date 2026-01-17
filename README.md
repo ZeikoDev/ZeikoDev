@@ -29,7 +29,8 @@ const signatureMoves = {
 ```
 
 ### 🟦 Blue Belt Proficiency (Backend & Tools)
-```grappling_skills = {
+```
+grappling_skills = {
     'backend': ['Django', 'Node.js', 'FastAPI'],
     'databases': ['PostgreSQL', 'Firebase/Firestore'],
     'cloud': ['AWS (EC2, S3)'],
